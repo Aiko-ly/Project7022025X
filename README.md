@@ -55,7 +55,7 @@ A powerful and flexible Discord bot for managing the **Arcadia Discord Server**,
 ---
 
 ## **🛡️ License**  
-📜 **Licensed under the [MIT License](LICENSE).**  
+📜 **Licensed under the [Apache 2.0 License](LICENSE).**  
 *(You are free to use, modify, and distribute this bot, but credit must be given to the original creator.)*  
 
 ---
