@@ -11,34 +11,7 @@ A powerful and flexible Discord bot for managing the **Arcadia Discord Server**,
 ✔️ **Priority 1 Role** – Special unrestricted control for server owners.  
 ✔️ **Moderation Tools** – Commands for muting/unmuting members.  
 ✔️ **English-Only Chat Filter** – Auto-detects & deletes non-English messages.  
-✔️ **Utility Commands** – Ping, info, and more!  
-
----
-
-## **🛠️ Installation & Setup**  
-
-### **1️⃣ Clone the Repository**  
-```sh
-git clone https://github.com/YourUsername/Arcadia-Bot.git
-cd Arcadia-Bot
-```
-
-### **2️⃣ Install Dependencies**  
-```sh
-pip install -r requirements.txt
-```
-
-### **3️⃣ Set Up Configuration Files**  
-- **`config.json`** – Stores tester role settings.  
-- **`welcome_config.json`** – Saves welcome channel preferences.  
-- **`test-data.json`** – Logs bot testing data.  
-
-### **4️⃣ Run the Bot**  
-```sh
-python bot.py
-```
-
-*(Ensure you replace `"YOUR_BOT_TOKEN"` in `bot.py` with your actual bot token.)*  
+✔️ **Utility Commands** – Ping, info, and more!   
 
 ---
 
